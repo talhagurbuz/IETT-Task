@@ -1,0 +1,15 @@
+{
+    "login": {
+      "title":"IETT Login",
+      "email_label": "Email",
+      "password_label": "Password",
+      "button": "Login",
+      "invalid_email": "Invalid email address",
+      "required_email": "Email is required",
+      "min_password": "Password must be at least 5 characters",
+      "required_password": "Password is required",
+      "invalid_credentials": "Invalid login credentials",
+      "success_message": "Login successful!"
+    }
+  }
+  

@@ -1,0 +1,11 @@
+.form-container {
+    background-color: rgba(255, 255, 255, 0.2); /* Beyaza yakın, alpha 0.2 */
+    border-radius: 1rem; /* Köşelerin yuvarlatılması */
+    max-width: 100%;
+  }
+  
+  .error {
+    color: red;
+    font-size: 0.875rem;
+  }
+  

@@ -1,0 +1,9 @@
+.chart-wrapper{
+    border-radius: 1rem;
+    background-color: rgba(0,0,0,0.5);
+    padding: 3rem 5rem;
+}
+
+.chart-wrapper * {
+    color: white !important;
+}

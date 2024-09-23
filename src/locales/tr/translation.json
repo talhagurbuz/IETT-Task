@@ -1,0 +1,15 @@
+{
+    "login": {
+      "title":"IETT Giriş Ekranı",
+      "email_label": "E-posta",
+      "password_label": "Şifre",
+      "button": "Giriş Yap",
+      "invalid_email": "Geçersiz e-posta adresi",
+      "required_email": "E-posta zorunludur",
+      "min_password": "Şifre en az 5 karakter olmalıdır",
+      "required_password": "Şifre zorunludur",
+      "invalid_credentials": "Hatalı kullanıcı bilgileri",
+      "success_message": "Başarılı giriş!"
+    }
+  }
+  

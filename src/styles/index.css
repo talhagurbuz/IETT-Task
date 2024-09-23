@@ -1,0 +1,12 @@
+:root {
+  --bs-primary: #003399 !important;
+  --bs-danger: #d90429 !important;
+}
+
+/* ********* */
+/* HOME PAGE */
+/* ********* */
+
+.home-page{
+  background-color: #F8F8F8;
+}
